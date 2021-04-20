@@ -8,13 +8,18 @@ h1 {
   margin: 50px auto 0 auto;
   font-family: 'Dancing Script', sans-serif;
   font-size: 5.625rem;
+  color: #66bfbf;
 }
 h2 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
-
+  color: #66bfbf;
 }
 h3 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
+  color:#11999E;
+}
+a {
+  color:#11999E;
 }
 
 .top-container {
@@ -23,7 +28,10 @@ h3 {
   padding-top: 100px
 }
 .programmer {
+  color: #66bfbf;
   font-size: 1.8rem;
+  font-weight: normal;
+  line-height: 2.4;
 }
 
 .pro {
@@ -40,4 +48,11 @@ h3 {
   position: absolute;
   right: 300px;
   top: 50px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align:left;
+  line-height: 2;
 }
