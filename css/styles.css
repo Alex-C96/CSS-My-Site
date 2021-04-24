@@ -13,15 +13,19 @@ h1 {
 h2 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   color: #66bfbf;
+  font-size: 2rem;
 }
 h3 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   color:#11999E;
+  font-size: 1.75rem;
 }
 a {
   color:#11999E;
 }
-
+p {
+  font-weight:200;
+}
 .top-container {
   background-color: #eeee;
   position: relative;
@@ -55,4 +59,15 @@ a {
   width: 50%;
   text-align:left;
   line-height: 2;
+}
+.skill-1 {
+  float: left;
+  margin-right:30px;
+}
+.skill-2 {
+  float: right;
+  margin-left:30px;
+}
+.student {
+  margin-top:30px;
 }
